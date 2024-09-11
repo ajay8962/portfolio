@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/about.jpg";
-import CV from "../../assets/ajay-cv.pdf";
+import CV from "../../assets/AjayDangiResume.pdf";
 import Info from "./Info.jsx";
 export default function About() {
     return(
